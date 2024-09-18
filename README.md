@@ -11,6 +11,6 @@ A video player built with React and TypeScript that features Picture-in-Picture 
 
 ## 🎥 Video
 
-https://github.com/user-attachments/assets/6e12b39e-8535-4dc3-aad1-aa0dfea7e2c6
+https://github.com/SortedCoding/Whatsappp-chatbox-clone/blob/main/preview.mp4
 
 
